@@ -3,7 +3,7 @@
 
 - [Mixer - Custom Controls / Game Clients](https://dev.mixer.com/guides/mixplay/customcontrols/gameclients "Mixer - Custom Controls / Game Clients")
 
-#### Frst of all create a file called mixerauth.json inside your game client project
+#### First of all create a file called mixerauth.json inside your game client project
 
 Place your app info in mixerauth.json, schema with your configuration:
 
