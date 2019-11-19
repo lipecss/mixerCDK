@@ -1,0 +1,26 @@
+{
+  "coverUrl": null,
+  "createdAt": "2019-11-19T17:54:08.000Z",
+  "deletedAt": null,
+  "description": null,
+  "hasPublishedVersions": false,
+  "id": 425094,
+  "installation": null,
+  "isShared": false,
+  "name": "exampleCDK",
+  "ownerId": 4509390,
+  "typeId": 130909,
+  "updatedAt": "2019-11-19T17:54:08.000Z",
+  "versions": [
+    {
+      "changelog": "Initial release",
+      "createdAt": "2019-11-19T17:54:08.000Z",
+      "id": 430997,
+      "installation": null,
+      "state": "draft",
+      "updatedAt": "2019-11-19T17:54:08.000Z",
+      "version": "0.1.0",
+      "versionOrder": 256
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "$working",
+    "world": {
+      "scenes": [
+        {
+          "controls": [
+            {
+              "controlID": "my-control",
+              "cost": 100,
+              "kind": "button",
+              "position": [
+                {
+                  "height": 8,
+                  "size": "large",
+                  "width": 10,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "text": "My First Button"
+            }
+          ],
+          "sceneID": "default"
+        }
+      ]
+    },
+    "savedAt": 1574187204996
+  }
+]
