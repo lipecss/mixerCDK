@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-game-client",
+  "version": "1.0.0",
+  "description": "a simple nodejs mixer client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mixer/client-node": "^3.5.0",
+    "@mixer/interactive-node": "^3.0.1",
+    "@mixer/shortcode-oauth": "^1.1.0",
+    "mixer-shortcode-oauth": "^1.0.9"
+  }
+}

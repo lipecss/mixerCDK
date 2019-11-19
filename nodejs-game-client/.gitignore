@@ -1,0 +1,7 @@
+# ignore all logs
+/mixerauth.json
+/mixertoken.json
+
+# Dependency directories
+node_modules
+/package-lock.json
